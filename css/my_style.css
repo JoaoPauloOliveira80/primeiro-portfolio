@@ -1,0 +1,30 @@
+* {
+
+/*box-shadow: 0px 0px 2px yellow;*/
+  padding: 0px;
+  margin: 0px;
+}
+
+body{
+  /*
+  background-image: url('../img/plano-fundo.jpeg');
+  background-repeat: no-repeat;
+  background-size: cover;*/
+  background-color: #ffffff;
+  overflow-x: hidden;
+}
+
+.logo{
+  width: 50px;
+  height: auto;
+  margin-left: 50px;
+}
+
+.meu-principal{
+  border-bottom: 1px solid #000;
+}
+
+#navbar {
+  display: flex !important;
+  justify-content: center !important;
+}
